@@ -1,0 +1,54 @@
+body {
+    background-color: #fdfbed;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+header {
+    margin-top: 0px 0px;
+    padding-top: 0px 0px;
+    background-color: #41206f;
+    height: 60px;
+}
+
+.SiteName {
+    margin: 0px;
+}
+
+header>a {
+    text-decoration: none;
+    color: white;
+    font: 30px Bad Script;
+    float: left;
+}
+
+.SiteName {
+    padding-top: 10px;
+}
+
+header>nav {
+    float: right;
+    height: 60px;
+}
+
+header>nav>a {
+    height: 60px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Lora;
+    color: white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    width: 100px;
+}
+
+#main_image {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+footer {
+    margin-top: 0px;
+    padding-top: 0px;
+    background-color: #41206f;
+}
